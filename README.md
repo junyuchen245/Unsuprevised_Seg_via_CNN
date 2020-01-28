@@ -1,1 +1,1 @@
-# Unsuprevised_Seg_via_CNN
+# Unsupervised Segmentation using Convolutional Neural Network
