@@ -1,1 +1,1 @@
-# Unsupervised Segmentation using Convolutional Neural Network
+# Unsupervised Segmentation Using Convolutional Neural Network
