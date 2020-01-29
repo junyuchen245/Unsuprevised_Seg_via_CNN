@@ -7,6 +7,9 @@ This is an implementation of my paper:
 We evaluated four settings of the proposed algorithm on the task of bone segmentation in bone SPECT images:
 
 Mode 1: Unsupervised (self-supervised) training with L_ACWE.
+
 Mode 2: Mode 1 + fine-tuning using L_label with 10 ground truth (GT) labels.
+
 Mode 3: Mode 1 + fine-tuning using L_label with 80 GT labels.
+
 Mode 4: Training with L_ACWE + L_label.
