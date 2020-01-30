@@ -20,3 +20,6 @@ We evaluated four settings of the proposed algorithm on the task of bone segment
 
 The quantitative results can be found in the paper, and here are some qualitative results:
 ![](https://github.com/junyuchen245/Unsuprevised_Seg_via_CNN/blob/master/pics/seg_results.png)
+
+### Comparing to traditional ACWE:
+![](https://github.com/junyuchen245/Unsuprevised_Seg_via_CNN/blob/master/pics/example.png)
