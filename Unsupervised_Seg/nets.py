@@ -58,7 +58,7 @@ def recurrentNet_fine_tune(input_size = (384,384,1), ndims=2):
             x = rcnn_block(x, out_num_filters=16, ndims=2, filtersize=3, trainable_flag=False)
     # form deformation field
     #x = rcnn_block(x, out_num_filters=16, ndims=2, filtersize=3)
-    x = Conv(filters=1, kernel_size=1, padding='same', name='segmentation', activity_regularizer=reg.Grad('l2',0))(x)
+    x = Conv(filters=1, kernel_size=1, padding='same', name='segmentation')(x)
     #x.trainable = False
     x = PReLU()(x)
     #x.trainable = False
