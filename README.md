@@ -23,3 +23,6 @@ The quantitative results can be found in the paper, and here are some qualitativ
 
 ### Comparing to traditional ACWE:
 ![](https://github.com/junyuchen245/Unsuprevised_Seg_via_CNN/blob/master/pics/example.png)
+
+
+### <a href="https://junyuchen245.github.io"> About Myself</a>
