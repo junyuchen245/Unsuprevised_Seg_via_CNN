@@ -48,11 +48,11 @@ class ACWE_label():
         #_0 = tf.constant([0.0])
         #y_pred = tf.cast(tf.math.greater_equal(y_pred, _0), tf.float32)
         y_pred = tf.clip_by_value(y_pred, clip_value_min=0, clip_value_max=1)
-        x = y_pred[:, :, 1:, :] - y_pred[:, :, :-1, :]  # horizontal and vertical directions
-        y = y_pred[:, :, :, 1:] - y_pred[:, :, :, :-1]
+        x = y_pred[:, 1:, :, :] - y_pred[:, :-1, :, :]  # horizontal and vertical directions
+        y = y_pred[:, :, 1:, :] - y_pred[:, :, :-1, :]
 
-        delta_x = x[:, :, 1:, :-2] ** 2
-        delta_y = y[:, :, :-2, 1:] ** 2
+        delta_x = x[:, 1:, :-2, :] ** 2
+        delta_y = y[:, :-2, 1:, :] ** 2
         delta_u = K.abs(delta_x + delta_y)
 
         epsilon = 0.00000001  # where is a parameter to avoid square root is zero in practice.
