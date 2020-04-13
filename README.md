@@ -2,7 +2,7 @@
 
 This is a Tensorflow/Keras implementation of my paper:
 
-<a href="https://arxiv.org/abs/2001.10155">Chen, Junyu, et al. "Medical Image Segmentation via Unsupervised Convolutional Neural Network. " Short Paper Track Accepted, Medical Imaging with Deep Learning, 2020.</a>
+<a href="https://arxiv.org/abs/2001.10155">Chen, Junyu, et al. "Medical Image Segmentation via Unsupervised Convolutional Neural Network. " Short Paper Track Accepted, Medical Imaging with Deep Learning (MIDL), 2020.</a>
 
 ## Network Architecture:
 ![](https://github.com/junyuchen245/Unsuprevised_Seg_via_CNN/blob/master/pics/model.png)
