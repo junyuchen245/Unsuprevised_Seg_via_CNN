@@ -2,15 +2,15 @@
 
 This is a Tensorflow/Keras implementation of my paper:
 
-@inproceedings{chen:MIDL2020,
-title={Medical Image Segmentation via Unsupervised Convolutional Neural Network},
-author={Junyu Chen},
-booktitle={International Conference on Medical Imaging with Deep Learning -- Short Paper Track},
-address={Montréal, Canada},
-year={2020},
-month={06-8 Jul},
-url={https://openreview.net/forum?id=XrbnSCv4LU},
-}
+    @inproceedings{chen:MIDL2020,
+    title={Medical Image Segmentation via Unsupervised Convolutional Neural Network},
+    author={Junyu Chen and Eric C. Frey},
+    booktitle={International Conference on Medical Imaging with Deep Learning -- Short Paper Track},
+    address={Montréal, Canada},
+    year={2020},
+    month={06-8 Jul},
+    url={https://openreview.net/forum?id=XrbnSCv4LU},
+    }
 
 <a href="https://arxiv.org/abs/2001.10155">Chen, Junyu, et al. "Medical Image Segmentation via Unsupervised Convolutional Neural Network. " Short Paper Track Accepted, Medical Imaging with Deep Learning (MIDL), 2020.</a>
 
