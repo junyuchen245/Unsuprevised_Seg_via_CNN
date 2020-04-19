@@ -26,7 +26,7 @@ The quantitative results can be found in the paper, and here are some qualitativ
 ### Comparing to traditional ACWE:
 ![](https://github.com/junyuchen245/Unsuprevised_Seg_via_CNN/blob/master/pics/example.png)
 
-If you find this code is useful in your research, please consider to cite, 
+If you find this code is useful in your research, please consider to cite:
 
     @inproceedings{
     chen2020medical,
