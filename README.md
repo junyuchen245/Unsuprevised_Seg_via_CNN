@@ -2,7 +2,7 @@
 
 This is a Tensorflow/Keras implementation of my paper:
 
-<a href="https://arxiv.org/abs/2001.10155">Chen, Junyu, et al. "Medical Image Segmentation via Unsupervised Convolutional Neural Network. " Short Paper Track Accepted, Medical Imaging with Deep Learning (MIDL), 2020.</a>
+<a href="https://openreview.net/forum?id=BJXLSka42">Chen, Junyu, et al. "Medical Image Segmentation via Unsupervised Convolutional Neural Network. " Medical Imaging with Deep Learning (MIDL), 2020.</a>
 
 
 
@@ -25,18 +25,16 @@ The quantitative results can be found in the paper, and here are some qualitativ
 
 ### Comparing to traditional ACWE:
 ![](https://github.com/junyuchen245/Unsuprevised_Seg_via_CNN/blob/master/pics/example.png)
-<!---
+
 If you find this code is useful in your research, please consider to cite, 
 
-    @inproceedings{chen:MIDL2020,
+    @inproceedings{
+    chen2020medical,
     title={Medical Image Segmentation via Unsupervised Convolutional Neural Network},
     author={Junyu Chen and Eric C. Frey},
-    booktitle={International Conference on Medical Imaging with Deep Learning -- Short Paper Track},
-    address={Montréal, Canada},
+    booktitle={Medical Imaging with Deep Learning},
     year={2020},
-    month={06-8 Jul},
-    url={https://openreview.net/forum?id=XrbnSCv4LU},
+    url={https://openreview.net/forum?id=BJXLSka42}
     }
---->
 
 ### <a href="https://junyuchen245.github.io"> About Myself</a>
