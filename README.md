@@ -2,7 +2,7 @@
 
 This is a Tensorflow/Keras implementation of my paper:
 
-<a href="https://openreview.net/forum?id=BJXLSka42">Chen, Junyu, et al. "Medical Image Segmentation via Unsupervised Convolutional Neural Network. " Medical Imaging with Deep Learning (MIDL), 2020.</a>
+<a href="https://openreview.net/forum?id=XrbnSCv4LU">Chen, Junyu, et al. "Medical Image Segmentation via Unsupervised Convolutional Neural Network. " Medical Imaging with Deep Learning (MIDL), 2020.</a>
 
 
 
@@ -34,7 +34,7 @@ If you find this code is useful in your research, please consider to cite:
     author={Junyu Chen and Eric C. Frey},
     booktitle={Medical Imaging with Deep Learning},
     year={2020},
-    url={https://openreview.net/forum?id=BJXLSka42}
+    url={https://openreview.net/forum?id=XrbnSCv4LU}
     }
 
 ### <a href="https://junyuchen245.github.io"> About Myself</a>
