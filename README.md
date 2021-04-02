@@ -1,5 +1,7 @@
 # Unsupervised Segmentation Using Convolutional Neural Network
 
+<a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-yellow.svg"></a>
+
 This is a Tensorflow/Keras implementation of my paper:
 
 <a href="https://openreview.net/forum?id=XrbnSCv4LU">Chen, Junyu, et al. "Medical Image Segmentation via Unsupervised Convolutional Neural Network. " Medical Imaging with Deep Learning (MIDL), 2020.</a>
