@@ -6,7 +6,7 @@ This is a Tensorflow/Keras implementation of my paper:
 
 <a href="https://openreview.net/forum?id=XrbnSCv4LU">Chen, Junyu, et al. "Medical Image Segmentation via Unsupervised Convolutional Neural Network. " Medical Imaging with Deep Learning (MIDL), 2020.</a>
 
-Note that this method does ***binary*** segmentation. Please check out our new approach (<a href="https://github.com/junyuchen245/Semi-supervised_FCM_Loss_for_Segmentation">***FCM loss***</a>) for unsupervised and semi-supervised loss functions for multi-class segmentation.
+*** Note that this method does ***binary*** segmentation. Please check out our new approach (<a href="https://github.com/junyuchen245/Semi-supervised_FCM_Loss_for_Segmentation">***FCM loss***</a>) for unsupervised and semi-supervised loss functions for multi-class segmentation.</span>
 
 
 ## Network Architecture:
