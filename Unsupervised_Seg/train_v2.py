@@ -51,9 +51,9 @@ function for loading files
 '''
 def load_imgs(img_dir, gt_dir, img_name, gt_name):
     img = np.load(img_dir+img_name)
-    img = img['arr_0']
+    img = img['spect']
     gt = np.load(gt_dir+gt_name)
-    gt = gt['arr_0']
+    gt = gt['label']
     rand_idx = np.random.permutation(img.shape[0])
     img = img[rand_idx]
     gt = gt[rand_idx]
